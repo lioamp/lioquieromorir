@@ -1,0 +1,77 @@
+.header {
+    background-image: linear-gradient(rgb(0, 0, 117), rgb(39, 0, 124));
+    opacity: 90%;
+}
+
+
+.bg-main {
+    background-image: linear-gradient(rgb(39, 0, 124), rgb(0, 0, 117));
+}
+
+
+.welcome {
+    padding-top: 250px;
+    margin-bottom: 400px;
+    position: relative;
+}
+
+.highlight {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.description {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.main {
+    padding-top: 120px;
+}
+
+
+li {
+    font-size: 18px;
+}
+
+
+.outfit-default {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: 100px;
+    font-style: normal;
+    
+}
+
+
+.outfit-main {
+    font-size: 18vh;
+    font-weight: 600;
+}
+
+
+@media (max-width: 18vh) {
+    .outfit-main {
+        font-size: 15vh; /* Adjust the value to your desired minimum font size */
+    }
+}
+
+
+.outfit-highlight {
+    font-size: 58px;
+    font-weight: 600;
+}
+
+
+.outfit-description {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.outfit-description-strong {
+    font-size: 22px;
+    font-weight: 700;
+}
