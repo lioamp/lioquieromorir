@@ -10,8 +10,8 @@
 
 
 .welcome {
-    padding-top: 250px;
-    margin-bottom: 400px;
+    padding-top: 25%;
+    margin-bottom: 30%;
     position: relative;
 }
 
@@ -67,7 +67,7 @@ li {
 
 
 .outfit-description {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 300;
 }
 
